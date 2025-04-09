@@ -1,4 +1,6 @@
 # Weather_App
+Weather App || Időjárásjelentő
+
 
 The application is a simple weather reporting system developed in Swift. It allows users to view weather data for any city. The app collects data using an API and displays temperature, atmospheric pressure, wind speed, and weather conditions.
 
