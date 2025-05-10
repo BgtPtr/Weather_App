@@ -1,10 +1,3 @@
-//
-//  WeatherRow.swift
-//  WeatherApp
-//
-//  Created by Mucha Naibei on 30/09/2022.
-//
-
 import SwiftUI
 
 struct WeatherRow: View {
