@@ -1,10 +1,3 @@
-//
-//  ModelData.swift
-//  WeatherApp
-//
-//  Created by Mucha Naibei on 30/09/2022.
-//
-
 import Foundation
 
 // If you wish to Archive this project, move this file outside of the Preview Content folder, as this folder is not taken into consideration by the Xcode Archive
